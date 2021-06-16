@@ -8,7 +8,7 @@ A server program using TCP/IP socket programming implemented in Python.  This pr
 * An IDE (e.g. [Pycharm](https://www.jetbrains.com/pycharm/), [Visual Studio Code](https://code.visualstudio.com/))
 
 ## How to Install
-Clone the project by downloading and unzipping the project.
+Clone the project by downloading and unzipping the project or running `git clone`.
 
 ## Goals
 * Clients must input arrays of strings of ASCII characters from a file in the client process and send them to the server process on the host using the TCP/IP protocols and sockets implemented in the Python language. The server checks whether the string is a palindrome and returns the string with an answer of "YES" or "NO". The client and the server must be on separate processes.
